@@ -2,7 +2,7 @@
 ​I’m Romnci, a web developer. I’m not just about writing code; <br>I’m about helping our local businesses get the digital presence<br>they deserve.<br><br>•Fast & Lightweight Builds: I don't use heavy, bloated systems. <br>I build custom sites from the ground<br>up to make sure they load instantly, <br>even on mobile data.<br><br>•Mobile-First Design: I prioritize a clean, mobile-optimized experience <br>above everything else.<br><br>•No-Nonsense Development: I keep things simple and efficient.<br>You won't get caught up in "tech-speak" you'll get a professional, <br>clean website that actually helps you get noticed.
 
 
-## 🌐 Socials
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/romnci.olds) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/romnciiiiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waoromnci@gmail.com) 
 
 # 💻 Tech Stack:
